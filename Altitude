@@ -14,7 +14,7 @@
 		"parentChapterId": 407,
 		"type": 0,
 		"userControlSetTop": false,
-		"xiaomi":false,
+		"xiaomi":true,
 		"vivo":false,
 		"Sanxing":false,
 		"google":false,
