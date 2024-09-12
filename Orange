@@ -14,7 +14,14 @@
 		"parentChapterId": 407,
 		"type": 0,
 		"userControlSetTop": false,
-		"visible": 1
+		"visible": 1,
+		"xiaomi":true,
+		"vivo":false,
+		"Sanxing":false,
+		"google":false,
+		"oppo":false,
+		"other":false,
+		"honor":false
 	},
 	"errorCode": 0,
 	"errorMsg": ""
