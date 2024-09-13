@@ -15,7 +15,7 @@
 		"type": 0,
 		"userControlSetTop": false,
 		"xiaomi":true,
-		"vivo":true,
+		"vivo":false,
 		"Sanxing":false,
 		"google":false,
 		"oppo":false,
