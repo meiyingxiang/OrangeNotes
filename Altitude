@@ -19,7 +19,7 @@
 		"Sanxing":false,
 		"google":false,
 		"oppo":false,
-		"other":false,
+		"other":true,
 		"visible": 1
 	},
 	"errorCode": 0,
