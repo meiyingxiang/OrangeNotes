@@ -13,8 +13,15 @@
 		"order": 190000,
 		"parentChapterId": 407,
 		"type": 0,
-		"userControlSetTop": false,
-		"visible": 1
+		"userControlSetTop": true,
+		"visible": 1,
+		"xiaomi":false,
+		"vivo":false,
+		"sanxing":false,
+		"google":true,
+		"oppo":false,
+		"other":false,
+		"honor":false
 	},
 	"errorCode": 0,
 	"errorMsg": ""
