@@ -21,7 +21,8 @@
 		"google":true,
 		"oppo":false,
 		"other":false,
-		"honor":false
+		"honor":false,
+		"amazon":false
 	},
 	"errorCode": 0,
 	"errorMsg": ""
